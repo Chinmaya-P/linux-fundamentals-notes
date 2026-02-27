@@ -14,13 +14,11 @@ Course: TCM Security - Linux Fundamentals
 
 \## Topics Covered So Far
 
-\- Basic Linux file system navigation
-
-\- Permissions (chmod, rwx column + use of numbers e.g. chmod 777)
-
-\- Users \& groups (adduser, su, looking at sudoers and sudo perms)
-
-\- Basic networking commands (ipconfig, ip a, iwconfig, ip n)
+* Basic Linux file system navigation
+* Permissions (chmod, rwx column + use of numbers e.g. chmod 777)
+* Users \& groups (adduser, su, looking at sudoers and sudo perms)
+* Starting and stopping services (apache2 server, hosting a web server through python3)
+* Basic networking commands (ipconfig, ip a, iwconfig, ip n)
 
 
 
