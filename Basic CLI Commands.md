@@ -12,13 +12,15 @@
 
 ## Commands and Examples
 
-- ls kali
-- ls \home\kali\Desktop
-- pwd 
-- ls -la
-- cd \home\kali\Documents
-- echo "Hello World" > HelloWorld.txt
-- cat HelloWorld.txt
+'''bash
+ ls kali
+ ls \home\kali\Desktop
+ pwd 
+ ls -la
+ cd \home\kali\Documents
+ echo "Hello World" > HelloWorld.txt
+ cat HelloWorld.txt
+ '''
 
 ## What Confused Me
 
