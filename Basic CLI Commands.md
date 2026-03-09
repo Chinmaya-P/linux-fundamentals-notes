@@ -12,7 +12,7 @@
 
 ## Commands and Examples
 
-'''bash
+```bash
  ls kali
  ls \home\kali\Desktop
  pwd 
@@ -20,7 +20,7 @@
  cd \home\kali\Documents
  echo "Hello World" > HelloWorld.txt
  cat HelloWorld.txt
- '''
+ ```
 
 ## What Confused Me
 
