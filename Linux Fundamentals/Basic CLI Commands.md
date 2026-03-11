@@ -1,6 +1,5 @@
 # File System Navigation
 
-
 ## What I learned
 
 - Navigating the Linux filesystem using the terminal
@@ -8,11 +7,9 @@
 - Finding hidden directories
 - Printing out the contents of .txt files within a directory
 - Using the Terminal to output text contents into a .txt file within a directory of my choosing.
-
-
 ## Commands and Examples
 
-```bash
+```bash 
  ls kali
  ls \home\kali\Desktop
  pwd 
@@ -20,8 +17,8 @@
  cd \home\kali\Documents
  echo "Hello World" > HelloWorld.txt
  cat HelloWorld.txt
- ```
-
+ 
+```
 ## What Confused Me
 
 - The idea of hidden directories
